@@ -1,2 +1,2 @@
 def echo(y,c):
-    return 6*7
+    return y*c
