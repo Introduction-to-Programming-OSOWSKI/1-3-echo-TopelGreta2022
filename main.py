@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def echo(y,c):
+    return 6*7
